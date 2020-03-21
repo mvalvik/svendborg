@@ -1,6 +1,6 @@
 ---
-thumbnail: "/uploads/image8.png"
-title: Pineapple
+thumbnail: "/uploads/image3.jpeg"
+title: Geder
 date: 2019-02-06
 categories:
 - photography
