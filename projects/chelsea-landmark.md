@@ -1,7 +1,7 @@
 ---
 date: 2019-05-16
 year: 2019
-title: Banana
+title: Elefant
 category: Identity
 thumbnail: "/uploads/image8.png"
 categories:
