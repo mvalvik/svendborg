@@ -1,6 +1,6 @@
 ---
 thumbnail: "/uploads/image7.png"
-title: Ice Cream
+title: Ørne
 date: 2019-01-04
 categories:
 - photography
