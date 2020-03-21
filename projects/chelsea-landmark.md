@@ -7,7 +7,7 @@ thumbnail: "/uploads/image8.png"
 categories:
 - photography
 - pink
-project_bg_color: ''
+project_bg_color: "#F91C1C"
 project_fg_color: ''
 
 ---
