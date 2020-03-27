@@ -1,7 +1,7 @@
 ---
 date: 2019-05-16
 year: 2019
-title: Elefant
+title: Elefant på flyvende tæppe
 category: Identity
 thumbnail: "/uploads/image8.png"
 categories:
