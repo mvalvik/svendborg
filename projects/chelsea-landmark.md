@@ -5,9 +5,9 @@ title: Elefant på flyvende tæppe
 category: Identity
 thumbnail: "/uploads/image8.png"
 categories:
-- photography
-- pink
-project_bg_color: "#417505"
+- Collografi
+- " chine collé"
+project_bg_color: "#FFFFFF"
 project_fg_color: "#4A90E2"
 
 ---
