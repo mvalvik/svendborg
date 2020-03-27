@@ -1,6 +1,6 @@
 ---
 thumbnail: "/uploads/image0.jpeg"
-title: Zebraer
+title: Zebraer i blåt og guld
 date: 2019-01-03
 categories:
 - Koldnår
