@@ -3,9 +3,9 @@ thumbnail: "/uploads/image0.jpeg"
 title: Zebraer i blåt og guld
 date: 2019-01-03
 categories:
-- Koldnår
+- Koldnål
 - " laser lito"
-- " chine collé "
+- " chine collé"
 project_bg_color: ''
 project_fg_color: "#3031B4"
 
