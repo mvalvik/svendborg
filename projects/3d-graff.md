@@ -1,9 +1,9 @@
 ---
 thumbnail: "/uploads/image7.png"
-title: Ørne
+title: To havørne
 date: 2019-01-04
 categories:
-- photography
+- Laser lito
 project_bg_color: ''
 project_fg_color: "#FDC70D"
 
