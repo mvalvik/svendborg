@@ -1,6 +1,6 @@
 ---
 date: 2019-05-16
-title: About Svendborg tryk
+title: Galleri Valvik
 author: Nichlas W. Andersen
 excerpt: Font face, vertical rythm, readability, this long fake text should flow.
 
