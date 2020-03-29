@@ -5,6 +5,7 @@ title: Paven i Helsinki
 categories:
 - Collografi
 - " chine collé"
+- 40x40
 project_bg_color: ''
 project_fg_color: ''
 
