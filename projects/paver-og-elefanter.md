@@ -1,7 +1,7 @@
 ---
 date: 2020-03-26
 thumbnail: "/uploads/image2-1.jpeg"
-title: Paver og elefanter
+title: Paverne i Afrika
 categories:
 - Collografi
 - " chine collé"
