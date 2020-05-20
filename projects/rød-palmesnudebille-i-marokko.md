@@ -9,4 +9,6 @@ project_fg_color: ''
 ---
 størrelse: xxxx
 
-motivstørrelse: xxxx![](/uploads/image9.jpeg)
+motivstørrelse: xxxx
+
+![](/uploads/image9.jpeg)
