@@ -6,6 +6,7 @@ categories:
 - Koldnål
 - " laser lito"
 - " chine collé"
+- 24.5 x 27 cm
 project_bg_color: ''
 project_fg_color: "#3031B4"
 
